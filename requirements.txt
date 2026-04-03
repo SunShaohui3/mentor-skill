@@ -1,0 +1,6 @@
+# Core optional dependency
+Pillow>=9.0.0
+
+# Optional future enhancements
+# chardet>=5.0.0
+# python-dateutil>=2.8.0

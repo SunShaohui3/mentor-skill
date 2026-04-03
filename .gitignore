@@ -1,0 +1,17 @@
+# 生成的导师 Skill（隐私保护，不上传）
+mentors/
+!mentors/example_mentor/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
