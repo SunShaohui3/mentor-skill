@@ -45,7 +45,6 @@ git clone https://github.com/Wkk13/mentor-skill.claude/skills/create-mentor
 git clone https://github.com/Wkk13/mentor-skill ~/.claude/skills/create-mentor
 ```
 
-如果你准备发布到 GitHub，请把上面的 `<your-repo-url>` 替换成你真实的仓库地址。
 
 ### 依赖（可选）
 
