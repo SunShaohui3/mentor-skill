@@ -39,10 +39,10 @@
 ```bash
 # 安装到当前项目（在 git 仓库根目录执行）
 mkdir -p .claude/skills
-git clone <your-repo-url> .claude/skills/create-mentor
+git clone https://github.com/Wkk13/mentor-skill.claude/skills/create-mentor
 
 # 或安装到全局（所有项目都能用）
-git clone <your-repo-url> ~/.claude/skills/create-mentor
+git clone https://github.com/Wkk13/mentor-skill ~/.claude/skills/create-mentor
 ```
 
 如果你准备发布到 GitHub，请把上面的 `<your-repo-url>` 替换成你真实的仓库地址。
@@ -251,7 +251,6 @@ create-mentor/
 - **[同事.skill](https://github.com/titanwings/colleague-skill)**（by titanwings）— 首创"把人蒸馏成 AI Skill"的双层架构
 - **[前任.skill](https://github.com/therealXiaomanChu/ex-partner-skill)**（by therealXiaomanChu）— 将双层架构迁移到了亲密关系场景
 导师.skill 在这些开源创意的基础上，把场景进一步收敛到了：
-
 * 导师压力
 * 组会恐惧
 * 批评预判
